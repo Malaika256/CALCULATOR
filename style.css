@@ -1,0 +1,25 @@
+table{
+    border: 3px #322C2B solid;
+    border-block-end-style: solid;
+    background-color: #322C2B;
+    margin: auto;
+    padding: 30px;
+    color: white;
+    
+    
+}
+#blue{
+    background-color: blue;
+}
+#GREEN{
+    background-color: #A3B763;
+    text-align: right;
+
+}
+#RED{
+    background-color: red;
+    text-align: center;
+}
+body{
+    background-color: cornsilk;
+}
